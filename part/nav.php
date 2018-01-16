@@ -1,34 +1,21 @@
-<nav class="cyan lighten-1" role="navigation">
-
-     <div class="nav-wrapper container"><a id="logo-container" href="./" class="brand-logo">All Pass</a>
-       
-      
-       <ul class="right hide-on-med-and-down">
-       
-         <li><a href="index.php">通識列表</a></li>
-         <li><a href="#">登入</a></li>
-         <li><a href="#">通知</a></li>
-         <li><a href="member-page.php">個人紀錄</a></li>
-         <li><a href="member-timetable.php">課表</a></li>
-         <li><a href="#">帳號設定</a></li>
-       </ul>
-       <div class="right nav-wrapper">
-      <form>
-        <div class="nav-input input-field">
-          <input id="search" type="search" required>
-          <label class="label-icon" for="search"><i class="material-icons">search</i></label>
-          <i class="material-icons">close</i>
-        </div>
-      </form>
-    </div>
-       <ul id="nav-mobile" class="side-nav">
-         <li><a href="index.php">通識列表</a></li>
-         <li><a href="#">登入</a></li>
-         <li><a href="#">通知</a></li>
-         <li><a href="memberhistory.php">個人紀錄</a></li>
-         <li><a href="schedule.php">課表</a></li>
-         <li><a href="#">帳號設定</a></li>
-       </ul>
-       <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
-     </div>
-   </nav>
+<header id="header" class="page-topbar">
+<!-- start header nav-->
+<div class="navbar-fixed ">
+  <nav class="navbar-color">
+    <div class="nav-wrapper cyan lighten-1">
+      <ul class="left">
+        <li>
+          <h1 class="logo-wrapper">
+            <a href="./" class="brand-logo darken-1">
+            AllPass
+            </a>
+          </h1>
+        </li>
+      </ul>
+      <div class="header-search-wrapper hide-on-med-and-down">
+        <i class="material-icons">search</i>
+        <input type="text" name="Search" class="header-search-input z-depth-2" placeholder="課程、課程代號、老師">
+      </div>
+  </nav>
+</div>
+</header>

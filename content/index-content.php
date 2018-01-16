@@ -9,7 +9,7 @@
 
  
  <div class="category-box">
- <div class="grid-example col s12"><span class="flow-text">博雅通識</span></div>
+ <div class="col s12"><span class="flow-text">博雅通識</span></div>
     <div class="row">
       <div class="col s4">
       <a href=".\class-list.php" class="waves-effect waves-light btn-large">人文科學</a>
@@ -29,7 +29,7 @@
   
   
       <div class="category-box">
-      <div class="grid-example col s12"><span class="flow-text">核心通識</span></div> 
+      <div class="col s12"><span class="flow-text">核心通識</span></div> 
     <div class="row ">
       <div class="col s4">
       <a href=".\class-list.php" class="waves-effect waves-light btn-large">思維方法</a>

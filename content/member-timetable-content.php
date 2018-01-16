@@ -1,13 +1,15 @@
 <div class="container member-timetable-content">
 
 <nav>
-<div class="cyan lighten-2 nav-wrapper">
-      <div class="col s4">
-        <a href="index.php" class="breadcrumb">首頁</a>
-        <a href="#!" class="breadcrumb">課表</a>
-      </div>
+<div class="nav-wrapper grey lighten-4 grey-text text-darken-1  ">
+  <div class="col s12 grey-text text-darken-1  ">
+  <div class="breadcrumb-box">
+    <a href="#!" class="breadcrumb grey-text text-darken-1 ">首頁</a>
+    <a href="#!" class="breadcrumb grey-text text-darken-1 ">課表</a>
     </div>
-	</nav>
+  </div>
+</div>
+</nav>
 	<!-- / College Timetable -->
 <div class='tab'>
 <table border='0' cellpadding='0' cellspacing='0'>

@@ -1,19 +1,9 @@
 
 
- <div class="container index-content">
+ <div class="container">
 
- <nav>
- <div class="cyan lighten-2 nav-wrapper">
-      <div class="col s4">
-        <a href="index.php" class="breadcrumb">首頁</a>
-        <a href="class-list.php" class="breadcrumb">核心通識-科學素養課程列表</a>
-        <a href="#!" class="breadcrumb">科普讀物導讀</a>
-      </div>
-    </div>
-</nav>
+科普讀物導讀 <a href="#!" ></a><br>
 
-科普讀物導讀 <a href="#!" ><i class="material-icons">favorite_border</i></a><br>
-<HR width="20%"  align="left">
 	<div>
 		<table width="50%">
           <tr>
@@ -48,9 +38,9 @@
 </div>	
 <div>
 	<ul id="tabs-swipe-demo" class="tabs">
-    <li class="tab col s3"><a href="#test-swipe-1">評論</a></li>
-    <li class="tab col s3"><a href="#test-swipe-2">Q&A</a></li>
-    <li class="tab col s3"><a href="#test-swipe-3">下載</a></li>
+    <li class="tab col s3 class-tab "><a href="#test-swipe-1">評論</a></li>
+    <li class="tab col s3 class-tab "><a href="#test-swipe-2">Q&A</a></li>
+    <li class="tab col s3 class-tab "><a href="#test-swipe-3">下載</a></li>
   </ul>
   <div id="test-swipe-1" >
   	<table class="striped" width="50%">

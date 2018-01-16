@@ -1,24 +1,11 @@
 
- <div class="container index-content">
-
-
-
- <nav>
- <div class="cyan lighten-2 nav-wrapper">
-      <div class="col s4">
-        <a href="index.php" class="breadcrumb">首頁</a>
-        <a href="#!" class="breadcrumb">個人紀錄</a>
-      </div>
-    </div>
-</nav>
-
- <div class="container index-content">
+ <div class="container">
 
 <div>
-	<ul id="tabs-swipe-demo" class="tabs">
-    <li class="tab col s3"><a href="#test-swipe-1">評論</a></li>
-    <li class="tab col s3"><a href="#test-swipe-2">Q&A</a></li>
-    <li class="tab col s3"><a href="#test-swipe-3">下載</a></li>
+	<ul id="tabs-swipe-demo " class="tabs">
+    <li class="tab col s3 member-tab"><a href="#test-swipe-1">評論</a></li>
+    <li class="tab col s3 member-tab"><a href="#test-swipe-2">Q&A</a></li>
+    <li class="tab col s3 member-tab"><a href="#test-swipe-3">下載</a></li>
   </ul>
   <div id="test-swipe-1" >
   	<table class="striped" width="50%">
@@ -95,5 +82,4 @@
   </div>
 </div>
 </div>
-
 </div>
