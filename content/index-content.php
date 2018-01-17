@@ -1,71 +1,141 @@
 
- <div class="row">
- 
- 
- 
  <div class="container index-content">
 
 
+ <div class="row">
+   
+ <h5 class="center-align">核心通識</h5>
 
- 
- <div class="category-box">
- <div class="col s12"><span class="flow-text">博雅通識</span></div>
-    <div class="row">
-      <div class="col s4">
-      <a href=".\class-list.php" class="waves-effect waves-light btn-large">人文科學</a>
+       <div class="col s12 m4"><span class="flow-text">
+       <div class="row">
+          <div class="card">
+          <a href=".\class-list.php">
+            <div class="card-image">
+              <img src="./source/img/c-1.jpg">
+              <span class="card-title">社會科學</span>
+            </div>
+            </a>
+          </div>
       </div>
-     
-      <div class="col s4">
-      <a href=".\class-list.php" class="waves-effect waves-light btn-large">社會科學</a>
+      </span></div>
+
+       <div class="col s12 m4"><span class="flow-text">
+       <div class="row">
+          <div class="card">
+          <a href=".\class-list.php">
+            <div class="card-image">
+            <img src="./source/img/c-3.jpg">
+              <span class="card-title">自然科學</span>
+            </div>
+          </a>
+          </div>
       </div>
-      
-      <div class="col s4">
-      <a href=".\class-list.php" class="waves-effect waves-light btn-large">自然科學</a>
+       </span></div>
+
+
+       <div class="col s12 m4"><span class="flow-text">
+       <div class="row">
+          <div class="card">
+            <a href=".\class-list.php">
+            <div class="card-image">
+              <img src="./source/img/c-2.jpg">
+              <span class="card-title">人文科學</span>
+            </a>
+            </div>
+          </div>
       </div>
+       </span></div>
+
 
     </div>
 
+    
+ <div class="row">
+   
+   <h5 class="center-align">博雅通識</h5>
+  
+         <div class="col s12 m4"><span class="flow-text">
+         <div class="row">
+            <div class="card">
+            <a href=".\class-list.php">
+              <div class="card-image">
+                <img src="./source/img/b-1.jpg">
+                <span class="card-title">公民素養</span>
+              </div>
+              </a>
+            </div>
+        </div>
+        </span></div>
+  
+         <div class="col s12 m4"><span class="flow-text">
+         <div class="row">
+            <div class="card">
+            <a href=".\class-list.php">
+              <div class="card-image">
+              <img src="./source/img/b-2.jpg">
+                <span class="card-title">美學素養</span>
+              </div>
+            </a>
+            </div>
+        </div>
+         </span></div>
+  
+  
+         <div class="col s12 m4"><span class="flow-text">
+         <div class="row">
+            <div class="card">
+              <a href=".\class-list.php">
+              <div class="card-image">
+                <img src="./source/img/b-3.jpg">
+                <span class="card-title">思維方法</span>
+              </a>
+              </div>
+            </div>
+        </div>
+         </span></div>
+
+         <div class="col s12 m4"><span class="flow-text">
+         <div class="row">
+            <div class="card">
+              <a href=".\class-list.php">
+              <div class="card-image">
+                <img src="./source/img/b-4.jpg">
+                <span class="card-title">文化素養</span>
+              </a>
+              </div>
+            </div>
+        </div>
+         </span></div>
+
+         <div class="col s12 m4"><span class="flow-text">
+         <div class="row">
+            <div class="card">
+              <a href=".\class-list.php">
+              <div class="card-image">
+                <img src="./source/img/b-5.jpg">
+                <span class="card-title">科學素養</span>
+              </a>
+              </div>
+            </div>
+        </div>
+         </span></div>
+
+         <div class="col s12 m4"><span class="flow-text">
+         <div class="row">
+            <div class="card">
+              <a href=".\class-list.php">
+              <div class="card-image">
+                <img src="./source/img/b-6.jpg">
+                <span class="card-title">倫理素養</span>
+              </a>
+              </div>
+            </div>
+        </div>
+         </span></div>
+
+      </div>
+
     </div>
-  
-  
-      <div class="category-box">
-      <div class="col s12"><span class="flow-text">核心通識</span></div> 
-    <div class="row ">
-      <div class="col s4">
-      <a href=".\class-list.php" class="waves-effect waves-light btn-large">思維方法</a>
-      </div>
-
-      <div class="col s4">
-      <a href=".\class-list.php" class="waves-effect waves-light btn-large">美學素養</a>
-      </div>
-
-      <div class="col s4">
-      <a href=".\class-list.php" class="waves-effect waves-light btn-large">公民素養</a>
-      </div>
-
-      </div>
-
-      <div class="row ">
-
-      <div class="col s4">
-      <a href=".\class-list.php" class="waves-effect waves-light btn-large">文化素養</a>
-      </div>
-
-      <div class="col s4">
-      <a href=".\class-list.php" class="waves-effect waves-light btn-large">科學素養</a>
-      </div>
-
-      <div class="col s4">
-      <a href=".\class-list.php" class="waves-effect waves-light btn-large">倫理素養</a>
-      </div>
-
-      </div>
-      </div>
-  
-
-
-      </div>
-      </div>
 
 
 

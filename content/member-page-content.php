@@ -5,7 +5,7 @@
 	<ul id="tabs-swipe-demo " class="tabs">
     <li class="tab col s3 member-tab"><a href="#test-swipe-1">評論</a></li>
     <li class="tab col s3 member-tab"><a href="#test-swipe-2">Q&A</a></li>
-    <li class="tab col s3 member-tab"><a href="#test-swipe-3">下載</a></li>
+    <li class="tab col s3 member-tab"><a href="#test-swipe-3">檔案</a></li>
   </ul>
   <div id="test-swipe-1" >
   	<table class="striped" width="50%">
