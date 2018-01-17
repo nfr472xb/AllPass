@@ -3,6 +3,7 @@
 <?php include("part/header.php"); ?>
 
 
+<link rel=stylesheet type="text/css" href=".\source\css\tinetable.css">
 <body >
     <div id="main">
       <div class="wrapper">

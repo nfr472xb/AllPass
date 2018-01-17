@@ -2,9 +2,8 @@
  <div class="container index-content">
 
 
- <div class="row">
-   
- <h5 class="center-align">核心通識</h5>
+ <h3 class="center-align">核心通識</h3>
+ <div class="row index-box">
 
        <div class="col s12 m4"><span class="flow-text">
        <div class="row">
@@ -50,9 +49,10 @@
     </div>
 
     
- <div class="row">
+   <h3 class="center-align">博雅通識</h3>
+
+ <div class="row index-box">
    
-   <h5 class="center-align">博雅通識</h5>
   
          <div class="col s12 m4"><span class="flow-text">
          <div class="row">

@@ -1283,6 +1283,13 @@ Cards
 }
 
 
+
+.class-content {
+  background: #fff;
+  padding:50px;
+}
+
+
 @media only screen and (max-width: 600px) {
 
   .card-image  {
@@ -1305,6 +1312,11 @@ Cards
 .card-title {
   padding: 0px !important; 
   height: 50px;
+}
+
+
+.class-content {
+  padding:10px;
 }
 
   }
@@ -1343,4 +1355,10 @@ Cards
   margin:0 auto;
   width:100%;
   padding-top: 100px;
+}
+
+
+.index-box {
+background: #fff;
+
 }

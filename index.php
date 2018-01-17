@@ -3,6 +3,14 @@
 <?php include("part/header.php"); ?>
 
 
+<style type="text/css"> 
+.sidebar-collapse {
+  top: -75px !important;
+}
+  </style> 
+
+
+
 
 
   <body >

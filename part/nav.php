@@ -14,7 +14,7 @@
       </ul>
       <div class="header-search-wrapper hide-on-med-and-down">
         <i class="material-icons">search</i>
-        <input type="text" name="Search" class="header-search-input z-depth-2" placeholder="課程、課程代號、老師">
+        <input type="text" name="Search" class="header-search-input z-depth-2" placeholder="課程名稱、課程代號、老師">
       </div>
   </nav>
 </div>
