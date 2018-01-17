@@ -2,6 +2,9 @@
 <div class="container index-content">
 
 
+
+
+<ul class="collection with-header">
 <nav>
 <div class="nav-wrapper grey lighten-4 grey-text text-darken-1  ">
   <div class="col s12 grey-text text-darken-1  ">
@@ -12,8 +15,6 @@
   </div>
 </div>
 </nav>
-
-<ul class="collection with-header">
 <li class="collection-header"><h4>課程列表</h4></li>
 <li class="collection-item"><div>
 	<a href=".\class-info.php">科普讀物導讀</a>

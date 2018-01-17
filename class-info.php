@@ -9,8 +9,10 @@
   <div id="main">
     <div class="wrapper">
       <?php include("part/sidebar.php"); ?> 
-      <div id="content"  class="class-list-content" >
-      <?php include("content/class-content.php"); ?>
+      <div class="row class-info-box">
+      
+        <?php include("content/class-content.php"); ?>
+       
       </div>
     </div>
   </div>
